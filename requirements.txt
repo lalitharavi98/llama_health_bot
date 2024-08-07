@@ -1,0 +1,11 @@
+sentence-transformers==3.0.1 #embedding
+ctransformers==0.2.27 #used to load quatised model on cpu
+langchain
+langchain-community
+langchain_huggingface
+langchain_pinecone
+pinecone-client==5.0.1
+flask==3.0.3
+pypdf==4.3.1
+python-dotenv==1.0.1
+# -e .
