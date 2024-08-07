@@ -38,4 +38,4 @@ python app.py
 ## Snapshots of the app
 ![Example 1](1.png)
 ![Example 2](2.png)
-!Example 3](3.png)
+![Example 3](3.png)
